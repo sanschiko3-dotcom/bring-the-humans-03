@@ -1,0 +1,15 @@
+make.fun colours
+
+make.fun comes in three modes. Light is the default, and readers can switch to Dark or Night.
+Magenta is the one accent. It fills the mark and the one main action of a screen. Light uses a deeper magenta on screen.
+A reward figure is set in Magenta ink: the primary ink in Light, a lighter pink in Dark and Night so it stays readable.
+The logo files in this kit keep the brand magenta, #C41C83, in every mode.
+
+Colour       Light     Dark      Night     Use
+Canvas       #FAF8FA   #11141B   #000000   The page behind everything.
+Surface      #FFFFFF   #171B24   #000000   Panels, cards and the header.
+Ink          #191419   #E0E5EF   #D4D4D4   Text, and the line round the mark in Light.
+Secondary    #5A5359   #BFC7DC   #C5C5C5   Supporting text.
+Hairline     #E2DEE1   #232936   #1A1A1A   Dividers and panel edges.
+Magenta      #BC0C7C   #C41C83   #C41C83   The mark, the one main action, and focus rings in Light.
+Magenta ink  #191419   #FF88C4   #FF88C4   Reward figures (ink in Light), and focus rings in Dark and Night.

@@ -1,0 +1,12 @@
+make.fun type
+
+Inter Display, Bold
+Headings and the wordmark. Inter at its display optical size, weight 700, tracked in slightly.
+
+Inter
+Everything else, with stylistic set ss04 on. Free under the SIL Open Font License from rsms.me/inter.
+
+JetBrains Mono
+Code, hex values and file sizes. Free under the SIL Open Font License from jetbrains.com/lp/mono.
+
+The wordmark and the files in this kit are outlined: they need no font installed.
